@@ -1,0 +1,6 @@
+comtypes==1.1.14
+numpy @ file:///D:/bld/numpy_1675642697443/work
+opencv-python==4.7.0
+pypiwin32==223
+pyttsx3==2.90
+pywin32==305
